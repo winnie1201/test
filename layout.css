@@ -1,0 +1,33 @@
+/*  css 註解 */
+/* css 選擇器  */
+/* class 選擇器 : 前面加. */
+/* 標籤名稱選擇器 直接打 span{} 、 body{} 、 a{} 、bottom{} */
+
+.headline{
+    font-size:40px;
+    font-weight:bold;
+    background-color: rgb(238, 118, 198);
+    color:white;
+    padding:20px;
+    text-align: center;
+}
+.title{
+    text-align: center;
+    font-weight:bold;
+    font-size:30px;
+    padding:20px;
+    color:rgb(206, 38, 66);
+}
+.content{
+    text-align: center;
+    font-weight:bold;
+    font-size:20px;
+    width:500px;
+    background-color: beige;
+    margin-left: 50px;
+    padding:30px;
+}
+.profile{
+    display:flex;
+    justify-content: center;
+}
